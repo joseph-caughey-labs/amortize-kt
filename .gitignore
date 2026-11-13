@@ -1,0 +1,11 @@
+.gradle/
+build/
+.kotlin/
+.idea/
+*.iml
+.claude/
+CLAUDE.md
+MEMORY.md
+.cursor/
+.aider*
+.continue/
